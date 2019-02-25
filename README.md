@@ -1,4 +1,4 @@
-## React Chuck Norris Jokes Web App with Redux.
+## React Chuck Norris Jokes Web App with Redux
 
 Consumes the API from [https://api.chucknorris.io](https://api.chucknorris.io).
 
