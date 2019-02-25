@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Categories page It matches the snapshot 1`] = `
+<div
+  className="common__Page-sc-4zl79x-0 tfEnI"
+>
+  <div
+    className="common__Container-sc-4zl79x-6 common__LeftContainer-sc-4zl79x-8 UmaQz"
+  >
+    <h1
+      className="common__MainTitle-sc-4zl79x-5 WItnH"
+    >
+      Joke categories
+    </h1>
+    <p
+      className="common__Copy-sc-4zl79x-1 iOKRhW"
+    >
+      Select a category to fetch a random Chuck Norris joke, relating to your chosen category.
+    </p>
+  </div>
+  <div
+    className="common__Container-sc-4zl79x-6 common__RightContainer-sc-4zl79x-7 hVahFF"
+  >
+    <a
+      className="common__StyledLink-sc-4zl79x-3 eVeMck"
+      href="/joke/dev"
+      onClick={[Function]}
+    >
+      dev
+    </a>
+  </div>
+</div>
+`;

@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Joke page It matches the snapshot 1`] = `
+<div
+  className="common__Page-sc-4zl79x-0 tfEnI"
+>
+  <div
+    className="common__Container-sc-4zl79x-6 common__LeftContainer-sc-4zl79x-8 UmaQz"
+  >
+    <h1
+      className="common__MainTitle-sc-4zl79x-5 WItnH"
+    >
+       
+      Joke
+    </h1>
+    <div
+      className="joke__Row-a9hi5-3 gPDRKs"
+    >
+      <button
+        className="joke__PrimaryButton-a9hi5-2 eIfJhA"
+        onClick={[Function]}
+        type="button"
+      >
+         New Joke
+      </button>
+      <a
+        className="common__StyledLink-sc-4zl79x-3 common__NewCategoryLink-sc-4zl79x-4 eQfvQT"
+        href="/"
+        onClick={[Function]}
+      >
+        New Category
+      </a>
+    </div>
+  </div>
+  <div
+    className="common__Container-sc-4zl79x-6 common__RightContainer-sc-4zl79x-7 hVahFF"
+  >
+    <h3
+      className="joke__JokeHeader-a9hi5-1 vYAMl"
+    />
+    <a
+      className="common__BasicLink-sc-4zl79x-2 eEPEnA"
+      href="undefined"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      See joke
+    </a>
+  </div>
+</div>
+`;
