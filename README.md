@@ -1,10 +1,10 @@
-React Chuck Norris Jokes Web App with Redux.
+## React Chuck Norris Jokes Web App with Redux.
 
-Consumes the API from [https://api.chucknorris.io/](https://api.chucknorris.io/).
+Consumes the API from [https://api.chucknorris.io](https://api.chucknorris.io).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The live app can be found at [https://bgibb95.github.io/ReactChuckNorrisApp/#/](https://bgibb95.github.io/ReactChuckNorrisApp/#/).
+The live app can be found at [https://bgibb95.github.io/ReactChuckNorrisApp](https://bgibb95.github.io/ReactChuckNorrisApp).
 
 ## Available Scripts
 
